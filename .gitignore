@@ -1,0 +1,14 @@
+outputs/
+checkpoints/
+tmp/
+tensorboard_log/
+
+.vscode/
+__pycache__/
+.DS_Store
+
+AGENTS.md
+data/
+
+misc/
+infer_result/
